@@ -1,0 +1,13 @@
+.container{ width: 970px; padding-bottom: 10px; height: auto; background-color: #1E90FF}
+.menu{display: grid; height: 70px; grid-template-columns: 240px; margin: 10px; margin-bottom: 20px;}
+.menu ul{width: 900px; display: flex; list-style: none;}
+.menu li{ background-color:white; border-style: none; margin: 20px; padding: 10px 50px;font-family:monospace; box-shadow: 3px 3px 5px gray; order: 1;}
+.menu input{border-style: none; background-color:white; color: #00BFFF; font-style: oblique;}
+
+
+.welcome h1{color: white; font-family:sans-serif; text-align: center; text-shadow: 4px 2px gray;}
+.welcome h2{color: white; font-family:sans-serif; text-align: center; padding-top: 30px;}
+
+.book_serach{text-align: center;}
+.book_serach input{padding: 15px 100px 15px 100px; margin-bottom: 30px;}
+.book_serach button{padding: 15px 10px 15px 10px;}
